@@ -66,7 +66,6 @@ Very generally useful functions and constants:
 * units.scad: easy metric units
 * utilities.scad: geometric funtions and misc. useful stuff
 * teardrop.scad (http://www.thingiverse.com/thing:3457): parametric teardrop module
-* shapes.scad: DEPRECATED simple shapes by Catarina Mota
 * polyholes.scad: holes that should come out well when printed
 
 External utils that generate and and process openscad code:
